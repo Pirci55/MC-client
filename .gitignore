@@ -1,18 +1,32 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+.mixin.out/
+assets/
+astralsorcery/
+bendspacks/
+crash-reports/
+journeymap/
+llibrary/
+local/
+logs/
+saves/
+screenshots/
+server-resource-packs/
+shaderpacks/
+resourcepacks/
+versions/
 
-# Other files and folders
-.settings/
+optionsshaders.txt
+.curseclient
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+*.json
+*.dat
+*.bak
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+
+
+
+
+
+
+
+
+
