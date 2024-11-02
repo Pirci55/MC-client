@@ -1,32 +1,11 @@
-.mixin.out/
-assets/
-astralsorcery/
-bendspacks/
-crash-reports/
-journeymap/
-llibrary/
-local/
-logs/
-saves/
-screenshots/
-server-resource-packs/
-shaderpacks/
-resourcepacks/
-versions/
+*
 
-optionsshaders.txt
-.curseclient
+!mods/
+!mods/*
 
-*.json
-*.dat
-*.bak
+!config/
+!config/*
 
-
-
-
-
-
-
-
-
+!liteconfig/
+!liteconfig/*
 
