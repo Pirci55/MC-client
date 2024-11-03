@@ -1,7 +1,5 @@
-*.log
-liteconfig\*.log
-
 *
+*log
 
 !mods/
 !mods/*
@@ -11,3 +9,11 @@ liteconfig\*.log
 
 !liteconfig/
 !liteconfig/*
+
+config/InvTweaks.cfg
+config/jei/worldSettings.cfg
+config/splash.properties
+config/thaumicjei_itemstack_aspects.json
+liteconfig/common/liteloader.keys.properties
+liteconfig/liteloader.log
+liteconfig/liteloader.properties
