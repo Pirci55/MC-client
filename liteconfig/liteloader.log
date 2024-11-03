@@ -1,0 +1,414 @@
+[01:48:44] [main/INFO]: LiteLoader 1.12.2 starting up...
+[01:48:44] [main/INFO]: Active Pack: 1.12.2-SNAPSHOT-r4CC2BB0-b4-4
+[01:48:44] [main/INFO]: Java reports OS="windows 10"
+[01:48:44] [main/INFO]: Adding supported mod class prefix 'LiteMod'
+[01:48:44] [main/INFO]: Enumerating class path...
+[01:48:44] [main/INFO]: Class path separator=";"
+[01:48:44] [main/INFO]: Class path entries=(
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\turikhay\ca-fixer\1.0\ca-fixer-1.0.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2860\forge-1.12.2-14.23.5.2860.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\ow2\asm\asm-debug-all\5.2\asm-debug-all-5.2.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2_mc\scala-continuations-library_2.11-1.0.2_mc.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\scala-continuations-plugin_2.11.1-1.0.2_mc.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\ru\tlauncher\patchy\1.0.0\patchy-1.0.0.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\google\guava\guava\21.0\guava-21.0.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\by\ely\authlib\3.11.49.2\authlib-3.11.49.2.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar
+   classpathEntry=D:\Program\CurseForge Windows\minecraft\Instances\MC-client\versions\Forge 1.12.2\Forge 1.12.2.jar
+)
+[01:48:44] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[01:48:44] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods]
+[01:48:44] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\1.12.2]
+[01:48:44] [main/INFO]: Registering enumerator plugin DefaultEnumeratorPlugin: [com.mumfrey.liteloader.core.api.DefaultEnumeratorPlugin@15b642b9]
+[01:48:44] [main/INFO]: Discovering valid mod files in folder D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods
+[01:48:44] [main/INFO]: Inspecting jar metadata in '!mixinbooter-9.4.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\!mixinbooter-9.4.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'AE-Net-Vis-Tool-1.12.2-1.0.3.0-universal.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\AE-Net-Vis-Tool-1.12.2-1.0.3.0-universal.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'ae2-uel-v0.56.6.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\ae2-uel-v0.56.6.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'ae2stuff-1.12.2-0.9.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\ae2stuff-1.12.2-0.9.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'aether-1.12.2-v1.5.4.0.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\aether-1.12.2-v1.5.4.0.jar
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\AmbientSounds_v3.1.7_mc1.12.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'animania-1.12.2-base-2.0.3.28.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\animania-1.12.2-base-2.0.3.28.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'animania-1.12.2-extra-1.0.2.28.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\animania-1.12.2-extra-1.0.2.28.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'AppleCore-mc1.12.2-3.4.0.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\AppleCore-mc1.12.2-3.4.0.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'AppleSkin-mc1.12-1.0.14.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\AppleSkin-mc1.12-1.0.14.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'astralsorcery-1.12.2-1.10.27.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\astralsorcery-1.12.2-1.10.27.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Authentic-1.4.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Authentic-1.4.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Avaritia-1.12.2-3.3.0.37-universal.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Avaritia-1.12.2-3.3.0.37-universal.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'badwithernocookiereloaded-1.12.2-3.4.18.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\badwithernocookiereloaded-1.12.2-3.4.18.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'base-1.12.2-3.14.0.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\base-1.12.2-3.14.0.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Baubles-1.12-1.5.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Baubles-1.12-1.5.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Baubley-Elytra-v1.3.3-mc1.12.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Baubley-Elytra-v1.3.3-mc1.12.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'bdlib-1.14.4.1-mc1.12.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\bdlib-1.14.4.1-mc1.12.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'BetterAnimationsCollection2-v1.0.2-1.12.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\BetterAnimationsCollection2-v1.0.2-1.12.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'betterbiomeblend-1.12.2-1.1.7-forge.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\betterbiomeblend-1.12.2-1.1.7-forge.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'BetterFoliage-MC1.12-2.3.3.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\BetterFoliage-MC1.12-2.3.3.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'bibliotheca-1.3.6-1.12.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\bibliotheca-1.3.6-1.12.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'BrandonsCore-1.12.2-2.4.20.162-universal.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\BrandonsCore-1.12.2-2.4.20.162-universal.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'BuildingGadgets-2.8.4.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\BuildingGadgets-2.8.4.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'carryon-1.12.2-1.12.7.23.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\carryon-1.12.2-1.12.7.23.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Chameleon-1.12-4.1.3.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Chameleon-1.12-4.1.3.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Clumps-3.1.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Clumps-3.1.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'CodeChickenLib-1.12.2-3.2.3.358-universal.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'CoFHCore-1.12.2-4.6.6.1-universal.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\CoFHCore-1.12.2-4.6.6.1-universal.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'CoFHWorld-1.12.2-1.4.0.1-universal.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\CoFHWorld-1.12.2-1.4.0.1-universal.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'collective-1.12.2-3.0.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\collective-1.12.2-3.0.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'ContentTweaker-1.12.2-4.10.0.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\ContentTweaker-1.12.2-4.10.0.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Controlling-3.0.12.4.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Controlling-3.0.12.4.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'CraftableElytra-1.1.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\CraftableElytra-1.1.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'CraftTweaker2-1.12-4.1.20.700.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\CraftTweaker2-1.12-4.1.20.700.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'CreativeCore_v1.10.71_mc1.12.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\CreativeCore_v1.10.71_mc1.12.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'CTM-MC1.12.2-1.0.2.31.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\CTM-MC1.12.2-1.0.2.31.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'durabilitytooltip-1.1.5-forge-mc1.12.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\durabilitytooltip-1.1.5-forge-mc1.12.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'DynamicSurroundings-1.12.2-3.6.3.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\DynamicSurroundings-1.12.2-3.6.3.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'EnchantmentDescriptions-1.12.2-1.1.15.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\EnchantmentDescriptions-1.12.2-1.1.15.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'environmentalmaterials-1.12.2-1.0.20.1.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\environmentalmaterials-1.12.2-1.0.20.1.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'environmentaltech-1.12.2-2.0.20.1.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\environmentaltech-1.12.2-2.0.20.1.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'EyesInTheDarkness-0.1.0.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\EyesInTheDarkness-0.1.0.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'farsight-1.6.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\farsight-1.6.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'FastLeafDecay-v14.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\FastLeafDecay-v14.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'foamfix-0.10.15-1.12.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\foamfix-0.10.15-1.12.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Forgelin-1.8.4.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Forgelin-1.8.4.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'ForgivingVoid_1.12.2-1.1.0.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\ForgivingVoid_1.12.2-1.1.0.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'FpsReducer-mc1.12.2-1.20.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\FpsReducer-mc1.12.2-1.20.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'ftb-ultimine-1202.3.5.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\ftb-ultimine-1202.3.5.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'FTBBackups-1.1.0.1.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\FTBBackups-1.1.0.1.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'FTBLib-5.4.7.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\FTBLib-5.4.7.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'FTBUtilities-5.4.1.131.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\FTBUtilities-5.4.1.131.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Future-MC-0.2.20.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Future-MC-0.2.20.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'geckolib-forge-1.12.2-3.0.31.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\geckolib-forge-1.12.2-3.0.31.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'HardcoreDarkness-MC1.12.2-2.0.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\HardcoreDarkness-MC1.12.2-2.0.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Hwyla-1.8.26-B41_1.12.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Hwyla-1.8.26-B41_1.12.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Into The Dungeons - 0.6.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Into The Dungeons - 0.6.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'InventoryTweaks-1.63.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\InventoryTweaks-1.63.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'jeiintegration_1.12.2-1.6.0.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\jeiintegration_1.12.2-1.6.0.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'jei_1.12.2-4.16.1.1013.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\jei_1.12.2-4.16.1.1013.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'journeymap-1.12.2-5.7.1p2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\journeymap-1.12.2-5.7.1p2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'JustEnoughResources-1.12.2-0.9.2.60.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\JustEnoughResources-1.12.2-0.9.2.60.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'liteloader-1.12.2-SNAPSHOT-release.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\liteloader-1.12.2-SNAPSHOT-release.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'llibrary-1.7.20-1.12.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\llibrary-1.7.20-1.12.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'MobGrindingUtils-0.3.13.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\MobGrindingUtils-0.3.13.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'mod-minelittlepony_esl-1.12.2.3.2.13-mc1.12.2.litemod'
+[01:48:44] [main/INFO]: Considering valid mod file: D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\mod-minelittlepony_esl-1.12.2.3.2.13-mc1.12.2.litemod
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'moreoverlays-1.15.1-mc1.12.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\moreoverlays-1.15.1-mc1.12.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Morpheus-1.12.2-3.5.106.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Morpheus-1.12.2-3.5.106.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'MouseTweaks-2.10-mc1.12.2.jar'
+[01:48:44] [main/INFO]: Considering valid mod file: D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\MouseTweaks-2.10-mc1.12.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'mowziesmobs-1.5.8.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\mowziesmobs-1.5.8.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'NaturesCompass-1.12.2-1.8.5.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\NaturesCompass-1.12.2-1.8.5.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Neat 1.4-17.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Neat 1.4-17.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'NoFallDamage-1.0.0.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\NoFallDamage-1.0.0.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'OptiFine_1.12.2_HD_U_G5.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\OptiFine_1.12.2_HD_U_G5.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'OreLib-1.12.2-3.6.0.1.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\OreLib-1.12.2-3.6.0.1.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Placebo-1.12.2-1.6.1.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Placebo-1.12.2-1.6.1.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Plants-1.12.2-2.10.7.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Plants-1.12.2-2.10.7.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'ponymagic-3.0.13.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\ponymagic-3.0.13.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'PotionCore-1.9_for_1.12.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\PotionCore-1.9_for_1.12.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'ProgressiveDifficulty-1.12_3.1.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\ProgressiveDifficulty-1.12_3.1.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'PTRLib-1.0.5.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\PTRLib-1.0.5.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'randompatches-1.12.2-1.22.1.10.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\randompatches-1.12.2-1.22.1.10.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'RedstoneFlux-1.12-2.1.1.1-universal.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\RedstoneFlux-1.12-2.1.1.1-universal.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Rustic Thaumaturgy-4.4a.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Rustic Thaumaturgy-4.4a.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'rustic-1.1.7.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\rustic-1.1.7.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'SereneSeasons-1.12.2-1.2.18-universal.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\SereneSeasons-1.12.2-1.2.18-universal.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'StorageDrawers-1.12.2-5.5.2.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\StorageDrawers-1.12.2-5.5.2.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'supermartijn642configlib-1.1.8-forge-mc1.12.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\supermartijn642configlib-1.1.8-forge-mc1.12.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'Thaumcraft-1.12.2-6.1.BETA26.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\Thaumcraft-1.12.2-6.1.BETA26.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'thaumicenergistics-2.2.4.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\thaumicenergistics-2.2.4.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'ThaumicInventoryScanning_1.12.2-2.0.10.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\ThaumicInventoryScanning_1.12.2-2.0.10.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'ThaumicJEI-1.12.2-1.7.0.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\ThaumicJEI-1.12.2-1.7.0.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'ThermalCultivation-1.12.2-0.3.6.1-universal.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\ThermalCultivation-1.12.2-0.3.6.1-universal.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'ThermalDynamics-1.12.2-2.5.6.1-universal.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\ThermalDynamics-1.12.2-2.5.6.1-universal.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'ThermalExpansion-1.12.2-5.5.7.1-universal.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\ThermalExpansion-1.12.2-5.5.7.1-universal.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'ThermalFoundation-1.12.2-2.6.7.1-universal.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\ThermalFoundation-1.12.2-2.6.7.1-universal.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'ThermalInnovation-1.12.2-0.3.6.1-universal.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\ThermalInnovation-1.12.2-0.3.6.1-universal.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'torohealth-1.12.2-11.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\torohealth-1.12.2-11.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'TravelersBackpack-1.12.2-1.0.35.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\TravelersBackpack-1.12.2-1.0.35.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'UniDict-1.12.2-3.0.10.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\UniDict-1.12.2-3.0.10.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'valkyrielib-1.12.2-2.0.20.1.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\valkyrielib-1.12.2-2.0.20.1.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'voicechat-forge-1.12.2-2.5.25.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\voicechat-forge-1.12.2-2.5.25.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'WanionLib-1.12.2-2.91.jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\WanionLib-1.12.2-2.91.jar
+[01:48:44] [main/INFO]: Inspecting jar metadata in 'YARCF-0.14(1.12.2).jar'
+[01:48:44] [main/INFO]: Ignoring D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\YARCF-0.14(1.12.2).jar
+[01:48:44] [main/INFO]: Discovering valid mod files in folder D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\1.12.2
+[01:48:44] [main/INFO]: Discovering tweaks on class path...
+[01:48:44] [main/INFO]: Baking listener list for EnumerationObserver with 1 listeners
+[01:48:44] [main/INFO]: Registering discovered mod files in folder D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods
+[01:48:44] [main/INFO]: Adding newest valid mod file 'D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\mod-minelittlepony_esl-1.12.2.3.2.13-mc1.12.2.litemod' at revision 970,0000
+[01:48:44] [main/INFO]: Adding newest valid mod file 'D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\MouseTweaks-2.10-mc1.12.2.jar' at revision 0,0000
+[01:48:44] [main/INFO]: Registering discovered mod files in folder D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\1.12.2
+[01:48:44] [main/INFO]: Registering mixin config minelp.mixin.json for mod-minelittlepony_esl-1.12.2.3.2.13-mc1.12.2.litemod
+[01:48:44] [main/INFO]: Registering mixin config hdskins.mixin.json for mod-minelittlepony_esl-1.12.2.3.2.13-mc1.12.2.litemod
+[01:48:44] [main/INFO]: Initialising LiteLoader Mixins
+[01:48:44] [main/INFO]: LiteLoader PREINIT complete
+[01:48:46] [main/INFO]: FML detected, switching to searge mappings
+[01:48:55] [Client thread/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy
+[01:48:55] [Client thread/INFO]: Successfully generated event handler proxy class with 0 handlers(s) and 0 total invocations
+[01:49:51] [Client thread/INFO]: JInput Component Registry is initialising...
+[01:49:51] [Client thread/INFO]: Inspecting Keyboard controller Êëàâèàòóðà HID on Unknown...
+[01:49:51] [Client thread/INFO]: Inspecting Mouse controller HID-ñîâìåñòèìàÿ ìûøü on Unknown...
+[01:49:51] [Client thread/INFO]: Inspecting Unknown controller  DEXP WARDER(GS-500) on Unknown...
+[01:49:51] [Client thread/INFO]: Inspecting Unknown controller USB Keyboard on Unknown...
+[01:49:51] [Client thread/INFO]: Inspecting Unknown controller USB Keyboard on Unknown...
+[01:49:51] [Client thread/INFO]: JInput Component Registry initialised, found 5 controller(s) 164 component(s)
+[01:49:51] [Client thread/INFO]: LiteLoader begin INIT...
+[01:49:51] [Client thread/INFO]: Baking listener list for CoreProvider with 2 listeners
+[01:49:51] [Client thread/INFO]: Injecting external mods into class path...
+[01:49:51] [Client thread/INFO]: D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\MouseTweaks-2.10-mc1.12.2.jar already exists on the classpath, skipping injection
+[01:49:51] [Client thread/INFO]: Injecting external mods into class path...
+[01:49:51] [Client thread/INFO]: Discovering mods on class path...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\turikhay\ca-fixer\1.0\ca-fixer-1.0.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2860\forge-1.12.2-14.23.5.2860.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\ow2\asm\asm-debug-all\5.2\asm-debug-all-5.2.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2_mc\scala-continuations-library_2.11-1.0.2_mc.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\scala-continuations-plugin_2.11.1-1.0.2_mc.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\apache\logging\log4j\log4j-api\2.15.0\log4j-api-2.15.0.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\apache\logging\log4j\log4j-core\2.15.0\log4j-core-2.15.0.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\ru\tlauncher\patchy\1.0.0\patchy-1.0.0.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\google\guava\guava\21.0\guava-21.0.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\by\ely\authlib\3.11.49.2\authlib-3.11.49.2.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\versions\Forge 1.12.2\Forge 1.12.2.jar...
+[01:49:51] [Client thread/INFO]: Discovering mods in valid mod files...
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\mod-minelittlepony_esl-1.12.2.3.2.13-mc1.12.2.litemod...
+[01:49:51] [Client thread/INFO]: Found 2 potential matches
+[01:49:51] [Client thread/INFO]: Searching D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\MouseTweaks-2.10-mc1.12.2.jar...
+[01:49:51] [Client thread/INFO]: Found 1 potential matches
+[01:49:51] [Client thread/INFO]: Discovering mods in valid mod files...
+[01:49:51] [Client thread/INFO]: Mod class discovery completed
+[01:49:51] [Client thread/INFO]: LiteLoader begin POSTINIT...
+[01:49:51] [Client thread/INFO]: Inhibiting sound handler reload
+[01:49:51] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.LiteLoaderEventBrokerClient for API LiteLoader core API
+[01:49:51] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.PacketEventsClient for API LiteLoader core API
+[01:49:51] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientPluginChannelsClient for API LiteLoader core API
+[01:49:51] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.core.ServerPluginChannels for API LiteLoader core API
+[01:49:51] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.messaging.MessageBus for API LiteLoader core API
+[01:49:51] [Client thread/INFO]: Discovered 3 total mod(s), injected 0 tweak(s)
+[01:49:51] [Client thread/INFO]: Loading mod from com.minelittlepony.LiteModMineLittlePony
+[01:49:51] [Client thread/INFO]: Baking listener list for ModLoadObserver with 1 listeners
+[01:49:51] [Client thread/INFO]: Successfully added mod Mine Little Pony version 1.12.2.3.2.13
+[01:49:51] [Client thread/INFO]: Adding "D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\mod-minelittlepony_esl-1.12.2.3.2.13-mc1.12.2.litemod" to active resource pack set
+[01:49:51] [Client thread/INFO]: Setting up "mod-minelittlepony_esl-1.12.2.3.2.13-mc1.12.2.litemod" as mod resource pack with identifier "Mine Little Pony"
+[01:49:51] [Client thread/INFO]: Successfully added "D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\mod-minelittlepony_esl-1.12.2.3.2.13-mc1.12.2.litemod" to active resource pack set
+[01:49:51] [Client thread/INFO]: Loading mod from com.voxelmodpack.hdskins.LiteModHDSkins
+[01:49:51] [Client thread/INFO]: Successfully added mod HD Skins version 4.0.1
+[01:49:51] [Client thread/INFO]: Adding "D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\mod-minelittlepony_esl-1.12.2.3.2.13-mc1.12.2.litemod" to active resource pack set
+[01:49:51] [Client thread/INFO]: Loading mod from yalter.mousetweaks.liteloader.LiteModMouseTweaks
+[01:49:51] [Client thread/INFO]: Successfully added mod Mouse Tweaks version 2.10
+[01:49:51] [Client thread/INFO]: Adding "D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\MouseTweaks-2.10-mc1.12.2.jar" to active resource pack set
+[01:49:51] [Client thread/INFO]: Setting up "MouseTweaks-2.10-mc1.12.2.jar" as mod resource pack with identifier "Mouse Tweaks"
+[01:49:51] [Client thread/INFO]: Successfully added "D:\Program\CurseForge Windows\minecraft\Instances\MC-client\mods\MouseTweaks-2.10-mc1.12.2.jar" to active resource pack set
+[01:49:51] [Client thread/INFO]: Initialising mod Mine Little Pony version 1.12.2.3.2.13
+[01:49:51] [Client thread/INFO]: Initialising mod HD Skins version 4.0.1
+[01:49:54] [Client thread/INFO]: Initialising mod Mouse Tweaks version 2.10
+[01:49:54] [Client thread/INFO]: Baking listener list for InterfaceObserver with 0 listeners
+[01:50:37] [Client thread/INFO]: Calling late init for mod Mine Little Pony
+[01:50:37] [Client thread/INFO]: Calling late init for mod HD Skins
+[01:50:37] [Client thread/INFO]: Baking listener list for ViewportListener with 1 listeners
+[01:50:37] [Client thread/INFO]: Sound handler reload inhibit removed
+[01:50:37] [Client thread/INFO]: Reloading sound handler
+[01:50:38] [Client thread/INFO]: Baking listener list for GameLoopListener with 0 listeners
+[01:50:39] [Client thread/INFO]: Baking listener list for RenderListener with 1 listeners
+[01:50:39] [Client thread/INFO]: Baking listener list for TickObserver with 3 listeners
+[01:50:39] [Client thread/INFO]: Baking listener list for PostRenderObserver with 3 listeners
+[01:50:39] [Client thread/INFO]: Baking listener list for Tickable with 1 listeners
+[01:50:39] [Client thread/INFO]: Baking listener list for FrameBufferListener with 0 listeners
+[01:50:47] [Netty Client IO #0/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy$2
+[01:50:47] [Netty Client IO #0/INFO]: Successfully generated event handler proxy class with 130 handlers(s) and 130 total invocations
+[01:50:47] [Netty Client IO #1/INFO]: Baking listener list for PostLoginListener with 0 listeners
+[01:50:49] [Client thread/INFO]: Baking listener list for PreJoinGameListener with 0 listeners
+[01:50:50] [Client thread/INFO]: Baking listener list for JoinGameListener with 0 listeners
+[01:50:51] [Client thread/INFO]: Baking listener list for PreRenderListener with 0 listeners
+[01:50:51] [Client thread/INFO]: Baking listener list for PostRenderListener with 0 listeners
+[01:50:51] [Client thread/INFO]: Baking listener list for HUDRenderListener with 0 listeners
+[01:50:51] [Client thread/INFO]: Baking listener list for WorldObserver with 2 listeners
+[01:50:51] [Client thread/INFO]: Baking listener list for ChatListener with 0 listeners
+[01:50:55] [Client thread/INFO]: Baking listener list for EntityRenderListener with 0 listeners
+[01:51:03] [Client thread/INFO]: Baking listener list for OutboundChatFilter with 0 listeners
+[01:52:56] [Client thread/INFO]: Baking listener list for PlayerClickListener with 0 listeners
