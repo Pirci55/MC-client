@@ -1160,13 +1160,6 @@ avaritia:neutronium_compressor, Neutronium Compressor
 carryon:tile_item, item.tile_item.name
 carryon:entity_item, item.entity_item.name
 craftelytra:elytra_wing, Elytra Wing
-sereneseasons:greenhouse_glass:0, Greenhouse Glass
-sereneseasons:season_sensor_spring:0, Season Sensor
-sereneseasons:season_sensor_summer:0, Season Sensor
-sereneseasons:season_sensor_autumn:0, Season Sensor
-sereneseasons:season_sensor_winter:0, Season Sensor
-sereneseasons:ss_icon, SS Icon
-sereneseasons:season_clock, Season Clock
 rustic:olive_oil, Olive Oil
 rustic:ironberry_juice, Ironberry Juice
 rustic:wildberry_juice, Wildberry Juice
@@ -1403,6 +1396,13 @@ rusticthaumaturgy:viscap, Viscap
 rusticthaumaturgy:cindermote_seeds, Cindermote Seeds
 rusticthaumaturgy:shimmerpetal_bulb, Shimmerpetal Bulb
 rusticthaumaturgy:viscap_spores, Viscap Spores
+sereneseasons:greenhouse_glass:0, Greenhouse Glass
+sereneseasons:season_sensor_spring:0, Season Sensor
+sereneseasons:season_sensor_summer:0, Season Sensor
+sereneseasons:season_sensor_autumn:0, Season Sensor
+sereneseasons:season_sensor_winter:0, Season Sensor
+sereneseasons:ss_icon, SS Icon
+sereneseasons:season_clock, Season Clock
 thermalfoundation:ore:0, Copper Ore
 thermalfoundation:ore:1, Tin Ore
 thermalfoundation:ore:2, Silver Ore
@@ -2637,7 +2637,6 @@ thermaldynamics:cover:0, Double Compressed Crafting Table Cover
 thermaldynamics:cover:0, Neutronium Block Cover
 thermaldynamics:cover:0, Infinity Block Cover
 thermaldynamics:cover:0, Crystal Matrix Cover
-thermaldynamics:cover:0, Greenhouse Glass Cover
 thermaldynamics:cover:0, Stone Pillar Cover
 thermaldynamics:cover:0, Andesite Pillar Cover
 thermaldynamics:cover:0, Diorite Pillar Cover
@@ -2822,6 +2821,7 @@ thermaldynamics:cover:0, Bestia Crystal Sconce Cover
 thermaldynamics:cover:0, Bestia Crystal Brass Sconce Cover
 thermaldynamics:cover:0, Humanus Crystal Sconce Cover
 thermaldynamics:cover:0, Humanus Crystal Brass Sconce Cover
+thermaldynamics:cover:0, Greenhouse Glass Cover
 thermaldynamics:cover:0, Copper Ore Cover
 thermaldynamics:cover:0, Tin Ore Cover
 thermaldynamics:cover:0, Silver Ore Cover
@@ -4502,27 +4502,6 @@ thaumcraft:seal:13, Control Seal: Use
 thaumcraft:seal:14, Control Seal: Provide
 thaumcraft:seal:15, Control Seal: Stock
 thaumcraft:seal:16, Control Seal: Advanced Block Breaker
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -4573,7 +4552,27 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
-thaumicenergistics:infusion_provider, Essentia Infusion Provider
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 thaumicenergistics:essentia_cell_1k, 1k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_4k, 4k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_16k, 16k ME Essentia Storage Cell
@@ -4592,6 +4591,7 @@ thaumicenergistics:essentia_component_16k, 16k ME Essentia Storage Component
 thaumicenergistics:essentia_component_64k, 64k ME Essentia Storage Component
 thaumicenergistics:upgrade_arcane, Arcane Charging Upgrade
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
+thaumicenergistics:infusion_provider, Essentia Infusion Provider
 travelersbackpack:travelers_backpack:0, Traveler's Backpack
 travelersbackpack:travelers_backpack:1, Traveler's Backpack
 travelersbackpack:travelers_backpack:2, Traveler's Backpack
