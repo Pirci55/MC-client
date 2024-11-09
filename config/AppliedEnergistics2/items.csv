@@ -649,6 +649,52 @@ ae2stuff:inscriber, Advanced Inscriber
 ae2stuff:wireless, Wireless Connector
 ae2stuff:wireless_kit, Wireless Setup Kit
 ae2stuff:visualiser, Network Visualisation Tool
+avaritia:resource:0, Diamond Lattice
+avaritia:resource:1, Crystal Matrix Ingot
+avaritia:resource:2, Pile of Neutrons
+avaritia:resource:3, Neutronium Nugget
+avaritia:resource:4, Neutronium Ingot
+avaritia:resource:5, Infinity Catalyst
+avaritia:resource:6, Infinity Ingot
+avaritia:resource:7, Record Fragment
+avaritia:singularity:0, Iron Singularity
+avaritia:singularity:1, Golden Singularity
+avaritia:singularity:2, Lapis Singularity
+avaritia:singularity:3, Redstone Singularity
+avaritia:singularity:4, Nether Quartz Singularity
+avaritia:singularity:5, Copper Singularity
+avaritia:singularity:6, Tin Singularity
+avaritia:singularity:7, Lead Singularity
+avaritia:singularity:8, Silver Singularity
+avaritia:singularity:9, Nickel Singularity
+avaritia:singularity:10, Diamond Singularity
+avaritia:singularity:11, Emerald Singularity
+avaritia:singularity:12, Fluxed Singularity
+avaritia:singularity:13, Platinum Singularity
+avaritia:singularity:14, Iridium Singularity
+avaritia:infinity_sword, Sword of the Cosmos
+avaritia:infinity_bow, Longbow of the Heavens
+avaritia:infinity_pickaxe, World Breaker
+avaritia:infinity_shovel, Planet Eater
+avaritia:infinity_axe, Nature's Ruin
+avaritia:infinity_hoe, Hoe of the Green Earth
+avaritia:infinity_helmet, Infinity Helmet
+avaritia:infinity_chestplate, Infinity Breastplate
+avaritia:infinity_pants, Infinity Leggings
+avaritia:infinity_boots, Infinity Boots
+avaritia:skullfire_sword, Skullfire Sword
+avaritia:endest_pearl, Endest Pearl
+avaritia:ultimate_stew, Ultimate Stew
+avaritia:cosmic_meatballs, Cosmic Meatballs
+avaritia:matter_cluster, Matter Cluster
+avaritia:compressed_crafting_table, Compressed Crafting Table
+avaritia:double_compressed_crafting_table, Double Compressed Crafting Table
+avaritia:extreme_crafting_table, Extreme Crafting Table
+avaritia:block_resource:0, Neutronium Block
+avaritia:block_resource:1, Infinity Block
+avaritia:block_resource:2, Crystal Matrix
+avaritia:neutron_collector, Neutron Collector
+avaritia:neutronium_compressor, Neutronium Compressor
 biomesoplenty:grass:0, Spectral Moss
 biomesoplenty:grass:1, Overgrown Stone
 biomesoplenty:grass:2, Loamy Grass Block
@@ -1013,153 +1059,16 @@ biomesoplenty:green_dye, Green Dye
 biomesoplenty:white_dye, White Dye
 biomesoplenty:black_dye, Black Dye
 biomesoplenty:earth, Earth
-animania:animania_manual, Animania Manual
-animania:entity_egg_random, item.animania_entity_egg_random.name
-animania:block_straw, Straw
-animania:salt_lick:0, Salt Lick
-animania:block_mud, Mud
-animania:block_trough, Trough
-animania:block_nest, Nest
-animania:entity_egg_hamster, item.animania_entity_egg_hamster.name
-animania:entity_egg_ferret_grey, item.animania_entity_egg_ferret_grey.name
-animania:entity_egg_ferret_white, item.animania_entity_egg_ferret_white.name
-animania:entity_egg_hedgehog, item.animania_entity_egg_hedgehog.name
-animania:entity_egg_hedgehog_albino, item.animania_entity_egg_hedgehog_albino.name
-animania:entity_egg_toad, item.animania_entity_egg_toad.name
-animania:entity_egg_frog, item.animania_entity_egg_frog.name
-animania:entity_egg_buck_cottontail, item.animania_entity_egg_buck_cottontail.name
-animania:entity_egg_doe_cottontail, item.animania_entity_egg_doe_cottontail.name
-animania:entity_egg_kit_cottontail, item.animania_entity_egg_kit_cottontail.name
-animania:entity_egg_buck_chinchilla, item.animania_entity_egg_buck_chinchilla.name
-animania:entity_egg_doe_chinchilla, item.animania_entity_egg_doe_chinchilla.name
-animania:entity_egg_kit_chinchilla, item.animania_entity_egg_kit_chinchilla.name
-animania:entity_egg_buck_dutch, item.animania_entity_egg_buck_dutch.name
-animania:entity_egg_doe_dutch, item.animania_entity_egg_doe_dutch.name
-animania:entity_egg_kit_dutch, item.animania_entity_egg_kit_dutch.name
-animania:entity_egg_buck_havana, item.animania_entity_egg_buck_havana.name
-animania:entity_egg_doe_havana, item.animania_entity_egg_doe_havana.name
-animania:entity_egg_kit_havana, item.animania_entity_egg_kit_havana.name
-animania:entity_egg_buck_jack, item.animania_entity_egg_buck_jack.name
-animania:entity_egg_doe_jack, item.animania_entity_egg_doe_jack.name
-animania:entity_egg_kit_jack, item.animania_entity_egg_kit_jack.name
-animania:entity_egg_buck_new_zealand, item.animania_entity_egg_buck_new_zealand.name
-animania:entity_egg_doe_new_zealand, item.animania_entity_egg_doe_new_zealand.name
-animania:entity_egg_kit_new_zealand, item.animania_entity_egg_kit_new_zealand.name
-animania:entity_egg_buck_rex, item.animania_entity_egg_buck_rex.name
-animania:entity_egg_doe_rex, item.animania_entity_egg_doe_rex.name
-animania:entity_egg_kit_rex, item.animania_entity_egg_kit_rex.name
-animania:entity_egg_buck_lop, item.animania_entity_egg_buck_lop.name
-animania:entity_egg_doe_lop, item.animania_entity_egg_doe_lop.name
-animania:entity_egg_kit_lop, item.animania_entity_egg_kit_lop.name
-animania:entity_egg_peachick_charcoal, item.animania_entity_egg_peachick_charcoal.name
-animania:entity_egg_peahen_charcoal, item.animania_entity_egg_peahen_charcoal.name
-animania:entity_egg_peacock_charcoal, item.animania_entity_egg_peacock_charcoal.name
-animania:entity_egg_peachick_opal, item.animania_entity_egg_peachick_opal.name
-animania:entity_egg_peahen_opal, item.animania_entity_egg_peahen_opal.name
-animania:entity_egg_peacock_opal, item.animania_entity_egg_peacock_opal.name
-animania:entity_egg_peachick_peach, item.animania_entity_egg_peachick_peach.name
-animania:entity_egg_peahen_peach, item.animania_entity_egg_peahen_peach.name
-animania:entity_egg_peacock_peach, item.animania_entity_egg_peacock_peach.name
-animania:entity_egg_peachick_purple, item.animania_entity_egg_peachick_purple.name
-animania:entity_egg_peahen_purple, item.animania_entity_egg_peahen_purple.name
-animania:entity_egg_peacock_purple, item.animania_entity_egg_peacock_purple.name
-animania:entity_egg_peachick_taupe, item.animania_entity_egg_peachick_taupe.name
-animania:entity_egg_peahen_taupe, item.animania_entity_egg_peahen_taupe.name
-animania:entity_egg_peacock_taupe, item.animania_entity_egg_peacock_taupe.name
-animania:entity_egg_peachick_blue, item.animania_entity_egg_peachick_blue.name
-animania:entity_egg_peahen_blue, item.animania_entity_egg_peahen_blue.name
-animania:entity_egg_peacock_blue, item.animania_entity_egg_peacock_blue.name
-animania:entity_egg_peachick_white, item.animania_entity_egg_peachick_white.name
-animania:entity_egg_peahen_white, item.animania_entity_egg_peahen_white.name
-animania:entity_egg_peacock_white, item.animania_entity_egg_peacock_white.name
-animania:blue_peacock_feather, Blue Peacock Feather
-animania:white_peacock_feather, White Peacock Feather
-animania:charcoal_peacock_feather, Charcoal Peacock Feather
-animania:opal_peacock_feather, Opal Peacock Feather
-animania:peach_peacock_feather, Peach Peacock Feather
-animania:purple_peacock_feather, Purple Peacock Feather
-animania:taupe_peacock_feather, Taupe Peacock Feather
-animania:hamster_food, Hamster Food
-animania:hamster_ball_clear, item.null.name
-animania:hamster_ball_colored:0, Black Hamster Ball
-animania:hamster_ball_colored:1, Red Hamster Ball
-animania:hamster_ball_colored:2, Green Hamster Ball
-animania:hamster_ball_colored:3, Brown Hamster Ball
-animania:hamster_ball_colored:4, Blue Hamster Ball
-animania:hamster_ball_colored:5, Purple Hamster Ball
-animania:hamster_ball_colored:6, Cyan Hamster Ball
-animania:hamster_ball_colored:7, Light Gray Hamster Ball
-animania:hamster_ball_colored:8, Gray Hamster Ball
-animania:hamster_ball_colored:9, Pink Hamster Ball
-animania:hamster_ball_colored:10, Lime Hamster Ball
-animania:hamster_ball_colored:11, Yellow Hamster Ball
-animania:hamster_ball_colored:12, Light Blue Hamster Ball
-animania:hamster_ball_colored:13, Magenta Hamster Ball
-animania:hamster_ball_colored:14, Orange Hamster Ball
-animania:hamster_ball_colored:15, White Hamster Ball
-animania:peacock_egg_blue, Peafowl Egg
-animania:peacock_egg_white, Peafowl Egg
-animania:raw_prime_rabbit, Raw Prime Rabbit
-animania:cooked_prime_rabbit, Roast Prime Rabbit
-animania:raw_frog_legs, Raw Frog Legs
-animania:cooked_frog_legs, Cooked Frog Legs
-animania:raw_peacock, Raw Peacock
-animania:cooked_peacock, Roast Peacock
-animania:raw_prime_peacock, Raw Prime Peacock
-animania:cooked_prime_peacock, Roast Prime Peacock
-animania:entity_egg_peacock_random, item.animania_entity_egg_peacock_random.name
-animania:entity_egg_rabbit_random, item.animania_entity_egg_rabbit_random.name
-animania:entity_egg_dart_frog, item.animania_entity_egg_dart_frog.name
-animania:block_hamster_wheel, Hamster Wheel
-avaritia:resource:0, Diamond Lattice
-avaritia:resource:1, Crystal Matrix Ingot
-avaritia:resource:2, Pile of Neutrons
-avaritia:resource:3, Neutronium Nugget
-avaritia:resource:4, Neutronium Ingot
-avaritia:resource:5, Infinity Catalyst
-avaritia:resource:6, Infinity Ingot
-avaritia:resource:7, Record Fragment
-avaritia:singularity:0, Iron Singularity
-avaritia:singularity:1, Golden Singularity
-avaritia:singularity:2, Lapis Singularity
-avaritia:singularity:3, Redstone Singularity
-avaritia:singularity:4, Nether Quartz Singularity
-avaritia:singularity:5, Copper Singularity
-avaritia:singularity:6, Tin Singularity
-avaritia:singularity:7, Lead Singularity
-avaritia:singularity:8, Silver Singularity
-avaritia:singularity:9, Nickel Singularity
-avaritia:singularity:10, Diamond Singularity
-avaritia:singularity:11, Emerald Singularity
-avaritia:singularity:12, Fluxed Singularity
-avaritia:singularity:13, Platinum Singularity
-avaritia:singularity:14, Iridium Singularity
-avaritia:infinity_sword, Sword of the Cosmos
-avaritia:infinity_bow, Longbow of the Heavens
-avaritia:infinity_pickaxe, World Breaker
-avaritia:infinity_shovel, Planet Eater
-avaritia:infinity_axe, Nature's Ruin
-avaritia:infinity_hoe, Hoe of the Green Earth
-avaritia:infinity_helmet, Infinity Helmet
-avaritia:infinity_chestplate, Infinity Breastplate
-avaritia:infinity_pants, Infinity Leggings
-avaritia:infinity_boots, Infinity Boots
-avaritia:skullfire_sword, Skullfire Sword
-avaritia:endest_pearl, Endest Pearl
-avaritia:ultimate_stew, Ultimate Stew
-avaritia:cosmic_meatballs, Cosmic Meatballs
-avaritia:matter_cluster, Matter Cluster
-avaritia:compressed_crafting_table, Compressed Crafting Table
-avaritia:double_compressed_crafting_table, Double Compressed Crafting Table
-avaritia:extreme_crafting_table, Extreme Crafting Table
-avaritia:block_resource:0, Neutronium Block
-avaritia:block_resource:1, Infinity Block
-avaritia:block_resource:2, Crystal Matrix
-avaritia:neutron_collector, Neutron Collector
-avaritia:neutronium_compressor, Neutronium Compressor
 carryon:tile_item, item.tile_item.name
 carryon:entity_item, item.entity_item.name
 craftelytra:elytra_wing, Elytra Wing
+sereneseasons:greenhouse_glass:0, Greenhouse Glass
+sereneseasons:season_sensor_spring:0, Season Sensor
+sereneseasons:season_sensor_summer:0, Season Sensor
+sereneseasons:season_sensor_autumn:0, Season Sensor
+sereneseasons:season_sensor_winter:0, Season Sensor
+sereneseasons:ss_icon, SS Icon
+sereneseasons:season_clock, Season Clock
 rustic:olive_oil, Olive Oil
 rustic:ironberry_juice, Ironberry Juice
 rustic:wildberry_juice, Wildberry Juice
@@ -1396,13 +1305,6 @@ rusticthaumaturgy:viscap, Viscap
 rusticthaumaturgy:cindermote_seeds, Cindermote Seeds
 rusticthaumaturgy:shimmerpetal_bulb, Shimmerpetal Bulb
 rusticthaumaturgy:viscap_spores, Viscap Spores
-sereneseasons:greenhouse_glass:0, Greenhouse Glass
-sereneseasons:season_sensor_spring:0, Season Sensor
-sereneseasons:season_sensor_summer:0, Season Sensor
-sereneseasons:season_sensor_autumn:0, Season Sensor
-sereneseasons:season_sensor_winter:0, Season Sensor
-sereneseasons:ss_icon, SS Icon
-sereneseasons:season_clock, Season Clock
 thermalfoundation:ore:0, Copper Ore
 thermalfoundation:ore:1, Tin Ore
 thermalfoundation:ore:2, Silver Ore
@@ -2339,6 +2241,11 @@ thermaldynamics:cover:0, Brown Concrete Powder Cover
 thermaldynamics:cover:0, Green Concrete Powder Cover
 thermaldynamics:cover:0, Red Concrete Powder Cover
 thermaldynamics:cover:0, Black Concrete Powder Cover
+thermaldynamics:cover:0, Compressed Crafting Table Cover
+thermaldynamics:cover:0, Double Compressed Crafting Table Cover
+thermaldynamics:cover:0, Neutronium Block Cover
+thermaldynamics:cover:0, Infinity Block Cover
+thermaldynamics:cover:0, Crystal Matrix Cover
 thermaldynamics:cover:0, Spectral Moss Cover
 thermaldynamics:cover:0, Overgrown Stone Cover
 thermaldynamics:cover:0, Loamy Grass Block Cover
@@ -2630,13 +2537,7 @@ thermaldynamics:cover:0, Wasteland Terrarium Cover
 thermaldynamics:cover:0, Origin Terrarium Cover
 thermaldynamics:cover:0, Nether Terrarium Cover
 thermaldynamics:cover:0, Ender Terrarium Cover
-thermaldynamics:cover:0, Invalid Cover
-thermaldynamics:cover:0, Invalid Cover
-thermaldynamics:cover:0, Compressed Crafting Table Cover
-thermaldynamics:cover:0, Double Compressed Crafting Table Cover
-thermaldynamics:cover:0, Neutronium Block Cover
-thermaldynamics:cover:0, Infinity Block Cover
-thermaldynamics:cover:0, Crystal Matrix Cover
+thermaldynamics:cover:0, Greenhouse Glass Cover
 thermaldynamics:cover:0, Stone Pillar Cover
 thermaldynamics:cover:0, Andesite Pillar Cover
 thermaldynamics:cover:0, Diorite Pillar Cover
@@ -2821,7 +2722,6 @@ thermaldynamics:cover:0, Bestia Crystal Sconce Cover
 thermaldynamics:cover:0, Bestia Crystal Brass Sconce Cover
 thermaldynamics:cover:0, Humanus Crystal Sconce Cover
 thermaldynamics:cover:0, Humanus Crystal Brass Sconce Cover
-thermaldynamics:cover:0, Greenhouse Glass Cover
 thermaldynamics:cover:0, Copper Ore Cover
 thermaldynamics:cover:0, Tin Ore Cover
 thermaldynamics:cover:0, Silver Ore Cover
@@ -3423,6 +3323,11 @@ appliedenergistics2:facade:0, Cable Facade - Brown Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Green Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Red Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Black Concrete Powder
+appliedenergistics2:facade:0, Cable Facade - Compressed Crafting Table
+appliedenergistics2:facade:0, Cable Facade - Double Compressed Crafting Table
+appliedenergistics2:facade:0, Cable Facade - Neutronium Block
+appliedenergistics2:facade:0, Cable Facade - Infinity Block
+appliedenergistics2:facade:0, Cable Facade - Crystal Matrix
 appliedenergistics2:facade:0, Cable Facade - Spectral Moss
 appliedenergistics2:facade:0, Cable Facade - Loamy Dirt
 appliedenergistics2:facade:0, Cable Facade - White Sand
@@ -3441,11 +3346,6 @@ appliedenergistics2:facade:0, Cable Facade - Honey Block
 appliedenergistics2:facade:0, Cable Facade - Bamboo Thatching
 appliedenergistics2:facade:0, Cable Facade - Mud Bricks
 appliedenergistics2:facade:0, Cable Facade - Sacred Oak Wood Planks
-appliedenergistics2:facade:0, Cable Facade - Compressed Crafting Table
-appliedenergistics2:facade:0, Cable Facade - Double Compressed Crafting Table
-appliedenergistics2:facade:0, Cable Facade - Neutronium Block
-appliedenergistics2:facade:0, Cable Facade - Infinity Block
-appliedenergistics2:facade:0, Cable Facade - Crystal Matrix
 appliedenergistics2:facade:0, Cable Facade - Stone Pillar
 appliedenergistics2:facade:0, Cable Facade - Andesite Pillar
 appliedenergistics2:facade:0, Cable Facade - Diorite Pillar
@@ -4502,6 +4402,27 @@ thaumcraft:seal:13, Control Seal: Use
 thaumcraft:seal:14, Control Seal: Provide
 thaumcraft:seal:15, Control Seal: Stock
 thaumcraft:seal:16, Control Seal: Advanced Block Breaker
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -4552,27 +4473,7 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
+thaumicenergistics:infusion_provider, Essentia Infusion Provider
 thaumicenergistics:essentia_cell_1k, 1k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_4k, 4k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_16k, 16k ME Essentia Storage Cell
@@ -4591,7 +4492,6 @@ thaumicenergistics:essentia_component_16k, 16k ME Essentia Storage Component
 thaumicenergistics:essentia_component_64k, 64k ME Essentia Storage Component
 thaumicenergistics:upgrade_arcane, Arcane Charging Upgrade
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
-thaumicenergistics:infusion_provider, Essentia Infusion Provider
 travelersbackpack:travelers_backpack:0, Traveler's Backpack
 travelersbackpack:travelers_backpack:1, Traveler's Backpack
 travelersbackpack:travelers_backpack:2, Traveler's Backpack
@@ -5766,3 +5666,10 @@ plants2:briblebum, Briblebum
 plants2:saimbaire, Saimbaire
 plants2:small_flower_aithotus, Small Flower Aithotus
 plants2:crystal_torch, Crystal Torch
+theoneprobe:probe, The One Probe
+theoneprobe:creativeprobe, The Creative Probe
+theoneprobe:probenote, The One Probe Read Me
+theoneprobe:diamond_helmet_probe:0, Diamond Helmet with Probe
+theoneprobe:gold_helmet_probe:0, Gold Helmet with Probe
+theoneprobe:iron_helmet_probe:0, Iron Helmet with Probe
+theoneprobe:probe_goggles, The One Probe (Bauble)
